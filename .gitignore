@@ -1,0 +1,40 @@
+# --- Archivos y carpetas del sistema ---
+.DS_Store
+*.swp
+
+# --- Configuración de editores ---
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# --- Archivos de compilación ---
+bin/
+obj/
+out/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+
+# --- Publicaciones y paquetes ---
+publish/
+app.publish/
+*.nupkg
+*.snupkg
+packages/
+
+# --- Configuración local y secretos ---
+appsettings.Development.json
+appsettings.Local.json
+secrets.json
+
+# --- Archivos generados por herramientas de análisis ---
+project.lock.json
+project.fragment.lock.json
+
+# --- Rider ---
+*.DotSettings.user
