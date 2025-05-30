@@ -1,0 +1,40 @@
+# Git
+.git
+.gitignore
+
+# Visual Studio files
+.vs/
+.vscode/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+msbuild.log
+msbuild.err
+msbuild.wrn
+
+# Docker
+Dockerfile
+.dockerignore
+
+# Environment files
+*.env
+appsettings.Development.json
+
+# IDE
+.idea/
+*.swp
+*.swo 
