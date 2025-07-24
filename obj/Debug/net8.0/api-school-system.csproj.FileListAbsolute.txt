@@ -142,3 +142,4 @@
 /Users/robertochaconalcantara/Documents/Projects/ard/api-school-system/obj/Debug/net8.0/api-school-system.genruntimeconfig.cache
 /Users/robertochaconalcantara/Documents/Projects/ard/api-school-system/obj/Debug/net8.0/ref/api-school-system.dll
 /Users/robertochaconalcantara/Documents/Projects/ard/api-school-system/bin/Debug/net8.0/BCrypt.Net-Next.dll
+/Users/robertochaconalcantara/Documents/Projects/ard/api-school-system/obj/Debug/net8.0/api-school-system.sourcelink.json
